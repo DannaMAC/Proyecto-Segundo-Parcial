@@ -14,10 +14,7 @@ Este es el proyecto de sitio web para Automax, una empresa de renta de autos. El
 Puedes ejecutar este proyecto usando Docker:
 
 1. Construye la imagen de Docker:
-   ```sh
-   docker build -t tu_usuario_dockerhub/automax-site .
+   
 
-### Enlace al Repositorio
-
-Equipo:
+### Equipo
 
